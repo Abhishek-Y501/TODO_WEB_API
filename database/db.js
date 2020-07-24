@@ -1,6 +1,6 @@
 const mongoDB = require('mongodb');
 const mongoClient = mongoDB.MongoClient;
-const mongoDBUrl = "mongodb+srv://abhishek:fM9P06QaC9pq6hoH@cluster0-rfd5b.mongodb.net/TODO?retryWrites=true&w=majority"
+const mongoDBUrl = "Your mongodb url"
 
 let _db;
 
